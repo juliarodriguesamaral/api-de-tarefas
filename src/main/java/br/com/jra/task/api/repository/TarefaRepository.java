@@ -1,4 +1,4 @@
-package br.com.jra.task.api.controller;
+package br.com.jra.task.api.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
